@@ -29,7 +29,7 @@ We present a dataset for graph-based question answering. The dataset consists of
 For an example on how to draw shortest path graphs using NetworkX, please see the "Data vizualization" section. You can use a Wikidata id to access  Wikidata concepts. E.g., [Q148234](https://www.wikidata.org/wiki/Q148234) or [Q51056](https://www.wikidata.org/wiki/Q51056).
 
 
-Train dataset is available [here](https://github.com/uhh-lt/TextGraphs17-shared-task/blob/main/data/tsv/train.tsv). It can be used for initial experiments. Our dataset is also available at [HuggingFace](https://huggingface.co/datasets/s-nlp/TextGraphs17-shared-task-dataset).
+Train dataset is available [here](https://github.com/uhh-lt/TextGraphs17-shared-task/blob/main/data/tsv/train.tsv). It can be used for initial experiments. 
 
 
 ## Data vizualization
