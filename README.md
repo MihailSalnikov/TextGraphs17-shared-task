@@ -32,6 +32,12 @@ For an example on how to draw shortest path graphs using NetworkX, please see th
 Train dataset is available [here](data/tsv/train.tsv). It can be used for initial experiments. 
 
 
+## Subgraphs generation
+
+* seq2seq.py - main entry point to tune language models, evaluate and make predictions for KGQA datasets
+* subgraphs_datasets_prepare_input_data - Scripts for preparing data for generating subgraphs. 
+* subgraphs_dataset_creation - Includes scripts for mining subgraphs using iGraph.
+
 ## Data vizualization
 
 For your convenience, we provide a [visualization script](visualization/draw_random_question_graphs.py) question-candidate graphs to help you better understand the graph structures. You can run the visualization script as follows:
